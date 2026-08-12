@@ -34,3 +34,11 @@ MANIFEST
 #  Usually these files are written b...
 /nlp_venv
 data/
+*.model
+*.vocab
+*.txt
+*.bin.gz
+*.tsv
+*.xml
+*.npy
+gnews_model_wv
