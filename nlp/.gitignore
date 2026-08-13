@@ -41,4 +41,6 @@ data/
 *.tsv
 *.xml
 *.npy
+*.csv
+*.keras
 gnews_model_wv
