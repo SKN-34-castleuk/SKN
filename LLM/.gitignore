@@ -46,3 +46,5 @@ data/
 gnews_model_wv
 /llm_venv
 output.mp3
+*.json
+*.jsonl
