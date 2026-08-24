@@ -48,3 +48,4 @@ gnews_model_wv
 output.mp3
 *.json
 *.jsonl
+*.mp3
