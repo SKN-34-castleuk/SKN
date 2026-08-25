@@ -49,3 +49,4 @@ output.mp3
 *.json
 *.jsonl
 *.mp3
+db/
