@@ -1,0 +1,2207 @@
+{
+  "0711.2718": {
+    "paper_id": "0711.2718",
+    "title": "A Risk-Sensitive Portfolio Optimization Problem with Fixed Incomes Securities",
+    "authors": "Mayank Goel, K. Suresh Kumar",
+    "published": "2007-11-17",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 38
+  },
+  "1204.2667": {
+    "paper_id": "1204.2667",
+    "title": "Optimal portfolios in commodity futures markets",
+    "authors": "Fred Espen Benth, Jukka Lempa",
+    "published": "2012-04-12",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 59
+  },
+  "1512.08381": {
+    "paper_id": "1512.08381",
+    "title": "Inferring Volatility in the Heston Model and its Relatives -- an Information Theoretical Approach",
+    "authors": "Nils Bertschinger, Oliver Pfante",
+    "published": "2015-12-28",
+    "category": "q-fin.ST",
+    "topic": "금융 리스크·변동성",
+    "chunks": 75
+  },
+  "1707.07585": {
+    "paper_id": "1707.07585",
+    "title": "Stock Prediction: a method based on extraction of news features and recurrent neural networks",
+    "authors": "Zeya Zhang, Weizheng Chen, Hongfei Yan",
+    "published": "2017-07-19",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 21
+  },
+  "1708.05713": {
+    "paper_id": "1708.05713",
+    "title": "Portfolio Optimization with Entropic Value-at-Risk",
+    "authors": "Amir Ahmadi-Javid, Malihe Fallah-Tafti",
+    "published": "2017-08-18",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 100
+  },
+  "1710.00431": {
+    "paper_id": "1710.00431",
+    "title": "Kelly's Criterion in Portfolio Optimization: A Decoupled Problem",
+    "authors": "Zachariah Peterson",
+    "published": "2017-10-01",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 63
+  },
+  "1801.00588": {
+    "paper_id": "1801.00588",
+    "title": "Improving Stock Market Prediction via Heterogeneous Information Fusion",
+    "authors": "Xi Zhang, Yunjia Zhang, Senzhang Wang, Yuntao Yao, Binxing Fang, Philip S. Yu",
+    "published": "2018-01-02",
+    "category": "cs.SI",
+    "topic": "주가 예측",
+    "chunks": 102
+  },
+  "1801.02243": {
+    "paper_id": "1801.02243",
+    "title": "Trading the Twitter Sentiment with Reinforcement Learning",
+    "authors": "Catherine Xiao, Wanfeng Chen",
+    "published": "2018-01-07",
+    "category": "cs.AI",
+    "topic": "강화학습 트레이딩",
+    "chunks": 28
+  },
+  "1803.07720": {
+    "paper_id": "1803.07720",
+    "title": "Asymptotic Optimal Portfolio in Fast Mean-reverting Stochastic Environments",
+    "authors": "Ruimeng Hu",
+    "published": "2018-03-21",
+    "category": "q-fin.MF",
+    "topic": "포트폴리오 최적화",
+    "chunks": 44
+  },
+  "1809.09441": {
+    "paper_id": "1809.09441",
+    "title": "Temporal Relational Ranking for Stock Prediction",
+    "authors": "Fuli Feng, Xiangnan He, Xiang Wang, Cheng Luo, Yiqun Liu, Tat-Seng Chua",
+    "published": "2018-09-25",
+    "category": "cs.CE",
+    "topic": "주가 예측",
+    "chunks": 119
+  },
+  "1810.09936": {
+    "paper_id": "1810.09936",
+    "title": "Enhancing Stock Movement Prediction with Adversarial Training",
+    "authors": "Fuli Feng, Huimin Chen, Xiangnan He, Ji Ding, Maosong Sun, Tat-Seng Chua",
+    "published": "2018-10-13",
+    "category": "q-fin.TR",
+    "topic": "주가 예측",
+    "chunks": 48
+  },
+  "1811.07522": {
+    "paper_id": "1811.07522",
+    "title": "Practical Deep Reinforcement Learning Approach for Stock Trading",
+    "authors": "Xiao-Yang Liu, Zhuoran Xiong, Shan Zhong, Hongyang Yang, Anwar Walid",
+    "published": "2018-11-19",
+    "category": "cs.LG",
+    "topic": "강화학습 트레이딩",
+    "chunks": 26
+  },
+  "1811.11008": {
+    "paper_id": "1811.11008",
+    "title": "Sentiment Analysis of Financial News Articles using Performance Indicators",
+    "authors": "Srikumar Krishnamoorthy",
+    "published": "2018-11-25",
+    "category": "cs.IR",
+    "topic": "금융 감성분석",
+    "chunks": 76
+  },
+  "1812.00093": {
+    "paper_id": "1812.00093",
+    "title": "Using Column Generation to Solve Extensions to the Markowitz Model",
+    "authors": "Lorenz M. Roebers, Aras Selvi, Juan C. Vera",
+    "published": "2018-11-30",
+    "category": "math.OC",
+    "topic": "포트폴리오 최적화",
+    "chunks": 46
+  },
+  "1812.10619": {
+    "paper_id": "1812.10619",
+    "title": "Predicting the Stock Price of Frontier Markets Using Modified Black-Scholes Option Pricing Model and Machine Learning",
+    "authors": "Reaz Chowdhury, M. R. C. Mahdy, Tanisha Nourin Alam, Golam Dastegir Al Quaderi",
+    "published": "2018-12-27",
+    "category": "q-fin.ST",
+    "topic": "금융 리스크·변동성",
+    "chunks": 104
+  },
+  "1903.06632": {
+    "paper_id": "1903.06632",
+    "title": "Designing an Optimal Portfolio for Iran's Stock Market with Genetic Algorithm using Neural Network Prediction of Risk and Return Stocks",
+    "authors": "Masoud Fekri, Babak Barazandeh",
+    "published": "2019-02-17",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 83
+  },
+  "1904.09408": {
+    "paper_id": "1904.09408",
+    "title": "Language Models with Transformers",
+    "authors": "Chenguang Wang, Mu Li, Alexander J. Smola",
+    "published": "2019-04-20",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 55
+  },
+  "1905.04226": {
+    "paper_id": "1905.04226",
+    "title": "Language Modeling with Deep Transformers",
+    "authors": "Kazuki Irie, Albert Zeyer, Ralf Schlüter, Hermann Ney",
+    "published": "2019-05-10",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 43
+  },
+  "1906.11046": {
+    "paper_id": "1906.11046",
+    "title": "Multi-Agent Deep Reinforcement Learning for Liquidation Strategy Analysis",
+    "authors": "Wenhang Bao, Xiao-yang Liu",
+    "published": "2019-06-24",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 48
+  },
+  "1909.06695": {
+    "paper_id": "1909.06695",
+    "title": "Ouroboros: On Accelerating Training of Transformer-Based Language Models",
+    "authors": "Qian Yang, Zhouyuan Huo, Wenlin Wang, Heng Huang, Lawrence Carin",
+    "published": "2019-09-14",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 50
+  },
+  "1909.10035": {
+    "paper_id": "1909.10035",
+    "title": "Using Machine Learning to Predict Realized Variance",
+    "authors": "Peter Carr, Liuren Wu, Zhibai Zhang",
+    "published": "2019-09-22",
+    "category": "q-fin.MF",
+    "topic": "금융 리스크·변동성",
+    "chunks": 46
+  },
+  "1911.02194": {
+    "paper_id": "1911.02194",
+    "title": "A Rational Finance Explanation of the Stock Predictability Puzzle",
+    "authors": "Abootaleb Shirvani, Svetlozar T. Rachev, Frank J. Fabozzi",
+    "published": "2019-11-06",
+    "category": "q-fin.MF",
+    "topic": "주가 예측",
+    "chunks": 40
+  },
+  "2001.05326": {
+    "paper_id": "2001.05326",
+    "title": "A BERT based Sentiment Analysis and Key Entity Detection Approach for Online Financial Texts",
+    "authors": "Lingyun Zhao, Lin Li, Xinhao Zheng",
+    "published": "2020-01-14",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 37
+  },
+  "2001.11786": {
+    "paper_id": "2001.11786",
+    "title": "On Calibration Neural Networks for extracting implied information from American options",
+    "authors": "Shuaiqiang Liu, Álvaro Leitao, Anastasia Borovykh, Cornelis W. Oosterlee",
+    "published": "2020-01-31",
+    "category": "q-fin.CP",
+    "topic": "금융 리스크·변동성",
+    "chunks": 83
+  },
+  "2002.05784": {
+    "paper_id": "2002.05784",
+    "title": "Improving S&P stock prediction with time series stock similarity",
+    "authors": "Lior Sidi",
+    "published": "2020-02-08",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 60
+  },
+  "2002.06878": {
+    "paper_id": "2002.06878",
+    "title": "Trimming the Sail: A Second-order Learning Paradigm for Stock Prediction",
+    "authors": "Chi Chen, Li Zhao, Wei Cao, Jiang Bian, Chunxiao Xing",
+    "published": "2020-02-17",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 44
+  },
+  "2003.00656": {
+    "paper_id": "2003.00656",
+    "title": "Machine Learning Portfolio Allocation",
+    "authors": "Michael Pinelis, David Ruppert",
+    "published": "2020-03-02",
+    "category": "q-fin.PM",
+    "topic": "금융 리스크·변동성",
+    "chunks": 97
+  },
+  "2003.06497": {
+    "paper_id": "2003.06497",
+    "title": "Deep Deterministic Portfolio Optimization",
+    "authors": "Ayman Chaouki, Stephen Hardiman, Christian Schmidt, Emmanuel Sérié, Joachim de Lataillade",
+    "published": "2020-03-13",
+    "category": "q-fin.MF",
+    "topic": "강화학습 트레이딩",
+    "chunks": 53
+  },
+  "2004.06627": {
+    "paper_id": "2004.06627",
+    "title": "An Application of Deep Reinforcement Learning to Algorithmic Trading",
+    "authors": "Thibaut Théate, Damien Ernst",
+    "published": "2020-04-07",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 102
+  },
+  "2004.14996": {
+    "paper_id": "2004.14996",
+    "title": "Segatron: Segment-Aware Transformer for Language Modeling and Understanding",
+    "authors": "He Bai, Peng Shi, Jimmy Lin, Yuqing Xie, Luchen Tan, Kun Xiong, Wen Gao, Ming Li",
+    "published": "2020-04-30",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 54
+  },
+  "2006.12641": {
+    "paper_id": "2006.12641",
+    "title": "Exploring Software Naturalness through Neural Language Models",
+    "authors": "Luca Buratti, Saurabh Pujar, Mihaela Bornea, Scott McCarley, Yunhui Zheng, Gaetano Rossiello, Alessandro Morari, Jim Laredo, Veronika Thost, Yufan Zhuang, Giacomo Domeniconi",
+    "published": "2020-06-22",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 56
+  },
+  "2006.16383": {
+    "paper_id": "2006.16383",
+    "title": "Forecasting volatility with a stacked model based on a hybridized Artificial Neural Network",
+    "authors": "E. Ramos-Pérez, P. J. Alonso-González, J. J. Núñez-Velázquez",
+    "published": "2020-06-29",
+    "category": "q-fin.RM",
+    "topic": "금융 리스크·변동성",
+    "chunks": 69
+  },
+  "2007.13972": {
+    "paper_id": "2007.13972",
+    "title": "Portfolio Optimization on the Dispersion Risk and the Asymmetric Tail Risk",
+    "authors": "Young Shin Kim",
+    "published": "2020-07-28",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 73
+  },
+  "2009.07408": {
+    "paper_id": "2009.07408",
+    "title": "Retrofitting Structure-aware Transformer Language Model for End Tasks",
+    "authors": "Hao Fei, Yafeng Ren, Donghong Ji",
+    "published": "2020-09-16",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 51
+  },
+  "2009.07947": {
+    "paper_id": "2009.07947",
+    "title": "Using Machine Learning and Alternative Data to Predict Movements in Market Risk",
+    "authors": "Thomas Dierckx, Jesse Davis, Wim Schoutens",
+    "published": "2020-09-16",
+    "category": "q-fin.CP",
+    "topic": "금융 리스크·변동성",
+    "chunks": 53
+  },
+  "2011.08011": {
+    "paper_id": "2011.08011",
+    "title": "Robust Analysis of Stock Price Time Series Using CNN and LSTM-Based Deep Learning Models",
+    "authors": "Sidra Mehtab, Jaydip Sen, Subhasis Dasgupta",
+    "published": "2020-11-07",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 40
+  },
+  "2102.13249": {
+    "paper_id": "2102.13249",
+    "title": "Chess as a Testbed for Language Model State Tracking",
+    "authors": "Shubham Toshniwal, Sam Wiseman, Karen Livescu, Kevin Gimpel",
+    "published": "2021-02-26",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 77
+  },
+  "2105.03625": {
+    "paper_id": "2105.03625",
+    "title": "A parallel-network continuous quantitative trading model with GARCH and PPO",
+    "authors": "Zhishun Wang, Wei Lu, Kaixin Zhang, Tianhao Li, Zixi Zhao",
+    "published": "2021-05-08",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 27
+  },
+  "2106.08437": {
+    "paper_id": "2106.08437",
+    "title": "Deep reinforcement learning on a multi-asset environment for trading",
+    "authors": "Ali Hirsa, Joerg Osterrieder, Branka Hadji-Misheva, Jan-Alexander Posth",
+    "published": "2021-06-15",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 64
+  },
+  "2106.09664": {
+    "paper_id": "2106.09664",
+    "title": "Design and Analysis of Robust Deep Learning Models for Stock Price Prediction",
+    "authors": "Jaydip Sen, Sidra Mehtab",
+    "published": "2021-06-17",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 97
+  },
+  "2106.10004": {
+    "paper_id": "2106.10004",
+    "title": "Towards Financial Sentiment Analysis in a South African Landscape",
+    "authors": "Michelle Terblanche, Vukosi Marivate",
+    "published": "2021-06-18",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 56
+  },
+  "2106.16088": {
+    "paper_id": "2106.16088",
+    "title": "Application of deep reinforcement learning for Indian stock trading automation",
+    "authors": "Supriya Bajpai",
+    "published": "2021-05-18",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 25
+  },
+  "2111.00526": {
+    "paper_id": "2111.00526",
+    "title": "FinEAS: Financial Embedding Analysis of Sentiment",
+    "authors": "Asier Gutiérrez-Fandiño, Miquel Noguer i Alonso, Petter Kolm, Jordi Armengol-Estapé",
+    "published": "2021-10-31",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 29
+  },
+  "2111.02080": {
+    "paper_id": "2111.02080",
+    "title": "An Explanation of In-context Learning as Implicit Bayesian Inference",
+    "authors": "Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma",
+    "published": "2021-11-03",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 104
+  },
+  "2111.04311": {
+    "paper_id": "2111.04311",
+    "title": "Portfolio analysis with mean-CVaR and mean-CVaR-skewness criteria based on mean-variance mixture models",
+    "authors": "Nuerxiati Abudurexiti, Kai He, Dongdong Hu, Svetlozar T. Rachev, Hasanjan Sayit, Ruoyu Sun",
+    "published": "2021-11-08",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 67
+  },
+  "2111.15354": {
+    "paper_id": "2111.15354",
+    "title": "An Improved Reinforcement Learning Model Based on Sentiment Analysis",
+    "authors": "Yizhuo Li, Peng Zhou, Fangyi Li, Xiao Yang",
+    "published": "2021-11-19",
+    "category": "q-fin.ST",
+    "topic": "강화학습 트레이딩",
+    "chunks": 62
+  },
+  "2112.07521": {
+    "paper_id": "2112.07521",
+    "title": "Non-linear shrinkage of the price return covariance matrix is far from optimal for portfolio optimisation",
+    "authors": "Christian Bongiorno, Damien Challet",
+    "published": "2021-12-14",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 24
+  },
+  "2112.15499": {
+    "paper_id": "2112.15499",
+    "title": "Dynamic Portfolio Optimization with Inverse Covariance Clustering",
+    "authors": "Yuanrong Wang, Tomaso Aste",
+    "published": "2021-12-31",
+    "category": "q-fin.ST",
+    "topic": "포트폴리오 최적화",
+    "chunks": 128
+  },
+  "2201.00205": {
+    "paper_id": "2201.00205",
+    "title": "Some connections between higher moments portfolio optimization methods",
+    "authors": "Farshad Noravesh, Kristiaan Kerstens",
+    "published": "2022-01-01",
+    "category": "cs.CE",
+    "topic": "포트폴리오 최적화",
+    "chunks": 48
+  },
+  "2202.08962": {
+    "paper_id": "2202.08962",
+    "title": "Volatility forecasting with machine learning and intraday commonality",
+    "authors": "Chao Zhang, Yihuang Zhang, Mihai Cucuringu, Zhongmin Qian",
+    "published": "2022-02-08",
+    "category": "q-fin.ST",
+    "topic": "금융 리스크·변동성",
+    "chunks": 133
+  },
+  "2203.11091": {
+    "paper_id": "2203.11091",
+    "title": "GCNET: graph-based prediction of stock price movement using graph convolutional network",
+    "authors": "Alireza Jafari, Saman Haratizadeh",
+    "published": "2022-02-19",
+    "category": "q-fin.TR",
+    "topic": "주가 예측",
+    "chunks": 91
+  },
+  "2204.02623": {
+    "paper_id": "2204.02623",
+    "title": "Attention-based CNN-LSTM and XGBoost hybrid model for stock prediction",
+    "authors": "Zhuangwei Shi, Yang Hu, Guangliang Mo, Jian Wu",
+    "published": "2022-04-06",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 35
+  },
+  "2204.13509": {
+    "paper_id": "2204.13509",
+    "title": "On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model",
+    "authors": "Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung",
+    "published": "2022-04-28",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 78
+  },
+  "2206.02854": {
+    "paper_id": "2206.02854",
+    "title": "ESG-Valued Portfolio Optimization and Dynamic Asset Pricing",
+    "authors": "Davide Lauria, W. Brent Lindquist, Stefan Mittnik, Svetlozar T. Rachev",
+    "published": "2022-06-06",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 157
+  },
+  "2207.06366": {
+    "paper_id": "2207.06366",
+    "title": "N-Grammer: Augmenting Transformers with latent n-grams",
+    "authors": "Aurko Roy, Rohan Anil, Guangda Lai, Benjamin Lee, Jeffrey Zhao, Shuyuan Zhang, Shibo Wang, Ye Zhang, Shen Wu, Rigel Swavely,  Tao,  Yu, Phuong Dao, Christopher Fifty, Zhifeng Chen, Yonghui Wu",
+    "published": "2022-07-13",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 47
+  },
+  "2207.10071": {
+    "paper_id": "2207.10071",
+    "title": "DDPG based on multi-scale strokes for financial time series trading strategy",
+    "authors": "Jun-Cheng Chen, Cong-Xiao Chen, Li-Juan Duan, Zhi Cai",
+    "published": "2022-06-05",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 35
+  },
+  "2208.01066": {
+    "paper_id": "2208.01066",
+    "title": "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes",
+    "authors": "Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant",
+    "published": "2022-08-01",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 124
+  },
+  "2208.11380": {
+    "paper_id": "2208.11380",
+    "title": "Financial Index Tracking via Quantum Computing with Cardinality Constraints",
+    "authors": "Samuel Palmer, Konstantinos Karagiannis, Adam Florence, Asier Rodriguez, Roman Orus, Harish Naik, Samuel Mugel",
+    "published": "2022-08-24",
+    "category": "quant-ph",
+    "topic": "포트폴리오 최적화",
+    "chunks": 37
+  },
+  "2209.05559": {
+    "paper_id": "2209.05559",
+    "title": "Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting",
+    "authors": "Berend Jelmer Dirk Gort, Xiao-Yang Liu, Xinghang Sun, Jiechao Gao, Shuaiyu Chen, Christina Dan Wang",
+    "published": "2022-09-12",
+    "category": "q-fin.ST",
+    "topic": "강화학습 트레이딩",
+    "chunks": 50
+  },
+  "2210.03469": {
+    "paper_id": "2210.03469",
+    "title": "Algorithmic Trading Using Continuous Action Space Deep Reinforcement Learning",
+    "authors": "Naseh Majidi, Mahdi Shamsi, Farokh Marvasti",
+    "published": "2022-10-07",
+    "category": "cs.LG",
+    "topic": "강화학습 트레이딩",
+    "chunks": 58
+  },
+  "2211.01762": {
+    "paper_id": "2211.01762",
+    "title": "Stock Trading Volume Prediction with Dual-Process Meta-Learning",
+    "authors": "Ruibo Chen, Wei Li, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun",
+    "published": "2022-10-11",
+    "category": "q-fin.TR",
+    "topic": "주가 예측",
+    "chunks": 52
+  },
+  "2212.00509": {
+    "paper_id": "2212.00509",
+    "title": "CultureBERT: Measuring Corporate Culture With Transformer-Based Language Models",
+    "authors": "Sebastian Koch, Stefan Pasch",
+    "published": "2022-12-01",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 69
+  },
+  "2212.09095": {
+    "paper_id": "2212.09095",
+    "title": "Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale",
+    "authors": "Hritik Bansal, Karthik Gopalakrishnan, Saket Dingliwal, Sravan Bodapati, Katrin Kirchhoff, Dan Roth",
+    "published": "2022-12-18",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 91
+  },
+  "2212.09957": {
+    "paper_id": "2212.09957",
+    "title": "Beyond Surrogate Modeling: Learning the Local Volatility Via Shape Constraints",
+    "authors": "Marc Chataigner, Areski Cousin, Stéphane Crépey, Matthew Dixon, Djibril Gueye",
+    "published": "2022-12-20",
+    "category": "q-fin.MF",
+    "topic": "금융 리스크·변동성",
+    "chunks": 40
+  },
+  "2212.10670": {
+    "paper_id": "2212.10670",
+    "title": "In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models",
+    "authors": "Yukun Huang, Yanda Chen, Zhou Yu, Kathleen McKeown",
+    "published": "2022-12-20",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 65
+  },
+  "2212.12717": {
+    "paper_id": "2212.12717",
+    "title": "Stock Market Prediction via Deep Learning Techniques: A Survey",
+    "authors": "Jinan Zou, Qingying Zhao, Yang Jiao, Haiyao Cao, Yanxi Liu, Qingsen Yan, Ehsan Abbasnejad, Lingqiao Liu, Javen Qinfeng Shi",
+    "published": "2022-12-24",
+    "category": "q-fin.GN",
+    "topic": "주가 예측",
+    "chunks": 186
+  },
+  "2301.08688": {
+    "paper_id": "2301.08688",
+    "title": "Asynchronous Deep Double Duelling Q-Learning for Trading-Signal Execution in Limit Order Book Markets",
+    "authors": "Peer Nagy, Jan-Peter Calliess, Stefan Zohren",
+    "published": "2023-01-20",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 67
+  },
+  "2302.04931": {
+    "paper_id": "2302.04931",
+    "title": "In-Context Learning with Many Demonstration Examples",
+    "authors": "Mukai Li, Shansan Gong, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu, Lingpeng Kong",
+    "published": "2023-02-09",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 76
+  },
+  "2303.01909": {
+    "paper_id": "2303.01909",
+    "title": "Finding the Optimal Currency Composition of Foreign Exchange Reserves with a Quantum Computer",
+    "authors": "Martin Vesely",
+    "published": "2023-03-03",
+    "category": "econ.GN",
+    "topic": "포트폴리오 최적화",
+    "chunks": 134
+  },
+  "2303.02563": {
+    "paper_id": "2303.02563",
+    "title": "FinXABSA: Explainable Finance through Aspect-Based Sentiment Analysis",
+    "authors": "Keane Ong, Wihan van der Heever, Ranjan Satapathy, Erik Cambria, Gianmarco Mengaldo",
+    "published": "2023-03-05",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 54
+  },
+  "2303.07971": {
+    "paper_id": "2303.07971",
+    "title": "A Theory of Emergent In-Context Learning as Implicit Structure Induction",
+    "authors": "Michael Hahn, Navin Goyal",
+    "published": "2023-03-14",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 257
+  },
+  "2303.13217": {
+    "paper_id": "2303.13217",
+    "title": "Fairness-guided Few-shot Prompting for Large Language Models",
+    "authors": "Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu",
+    "published": "2023-03-23",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 59
+  },
+  "2304.00364": {
+    "paper_id": "2304.00364",
+    "title": "Mastering Pair Trading with Risk-Aware Recurrent Reinforcement Learning",
+    "authors": "Weiguang Han, Jimin Huang, Qianqian Xie, Boyi Zhang, Yanzhao Lai, Min Peng",
+    "published": "2023-04-01",
+    "category": "q-fin.CP",
+    "topic": "강화학습 트레이딩",
+    "chunks": 51
+  },
+  "2304.06037": {
+    "paper_id": "2304.06037",
+    "title": "Quantitative Trading using Deep Q Learning",
+    "authors": "Soumyadip Sarkar",
+    "published": "2023-04-03",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 43
+  },
+  "2305.10614": {
+    "paper_id": "2305.10614",
+    "title": "Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions",
+    "authors": "Byung-Doh Oh, William Schuler",
+    "published": "2023-05-17",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 57
+  },
+  "2305.12739": {
+    "paper_id": "2305.12739",
+    "title": "The Influence of ChatGPT on Artificial Intelligence Related Crypto Assets: Evidence from a Synthetic Control Analysis",
+    "authors": "Aman Saggu, Lennart Ante",
+    "published": "2023-05-22",
+    "category": "q-fin.GN",
+    "topic": "금융 LLM·NLP",
+    "chunks": 66
+  },
+  "2305.12907": {
+    "paper_id": "2305.12907",
+    "title": "Meta-in-context learning in large language models",
+    "authors": "Julian Coda-Forno, Marcel Binz, Zeynep Akata, Matthew Botvinick, Jane X. Wang, Eric Schulz",
+    "published": "2023-05-22",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 52
+  },
+  "2305.13571": {
+    "paper_id": "2305.13571",
+    "title": "Latent Positional Information is in the Self-Attention Variance of Transformer Language Models Without Positional Embeddings",
+    "authors": "Ta-Chung Chi, Ting-Han Fan, Li-Wei Chen, Alexander I. Rudnicky, Peter J. Ramadge",
+    "published": "2023-05-23",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 34
+  },
+  "2305.18248": {
+    "paper_id": "2305.18248",
+    "title": "Do Language Models Know When They're Hallucinating References?",
+    "authors": "Ayush Agrawal, Mirac Suzgun, Lester Mackey, Adam Tauman Kalai",
+    "published": "2023-05-29",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 74
+  },
+  "2306.01311": {
+    "paper_id": "2306.01311",
+    "title": "MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models",
+    "authors": "Masoud Monajatipoor, Liunian Harold Li, Mozhdeh Rouhsedaghat, Lin F. Yang, Kai-Wei Chang",
+    "published": "2023-06-02",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 46
+  },
+  "2306.06031": {
+    "paper_id": "2306.06031",
+    "title": "FinGPT: Open-Source Financial Large Language Models",
+    "authors": "Hongyang Yang, Xiao-Yang Liu, Christina Dan Wang",
+    "published": "2023-06-09",
+    "category": "q-fin.ST",
+    "topic": "금융 LLM·NLP",
+    "chunks": 57
+  },
+  "2306.12659": {
+    "paper_id": "2306.12659",
+    "title": "Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models",
+    "authors": "Boyu Zhang, Hongyang Yang, Xiao-Yang Liu",
+    "published": "2023-06-22",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 40
+  },
+  "2306.14096": {
+    "paper_id": "2306.14096",
+    "title": "Chinese Fine-Grained Financial Sentiment Analysis with Large Language Models",
+    "authors": "Yinyu Lan, Yanru Wu, Wang Xu, Weiqiang Feng, Youhao Zhang",
+    "published": "2023-06-25",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 44
+  },
+  "2306.14222": {
+    "paper_id": "2306.14222",
+    "title": "Unveiling the Potential of Sentiment: Can Large Language Models Predict Chinese Stock Price Movements?",
+    "authors": "Haohan Zhang, Fengrui Hua, Chengjin Xu, Hao Kong, Ruiting Zuo, Jian Guo",
+    "published": "2023-06-25",
+    "category": "cs.CL",
+    "topic": "금융 LLM·NLP",
+    "chunks": 47
+  },
+  "2307.01189": {
+    "paper_id": "2307.01189",
+    "title": "Trainable Transformer in Transformer",
+    "authors": "Abhishek Panigrahi, Sadhika Malladi, Mengzhou Xia, Sanjeev Arora",
+    "published": "2023-07-03",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 208
+  },
+  "2307.02690": {
+    "paper_id": "2307.02690",
+    "title": "Scaling In-Context Demonstrations with Structured Attention",
+    "authors": "Tianle Cai, Kaixuan Huang, Jason D. Lee, Mengdi Wang",
+    "published": "2023-07-05",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 90
+  },
+  "2308.06260": {
+    "paper_id": "2308.06260",
+    "title": "ChatGPT-based Investment Portfolio Selection",
+    "authors": "Oleksandr Romanko, Akhilesh Narayan, Roy H. Kwon",
+    "published": "2023-08-11",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 61
+  },
+  "2308.07282": {
+    "paper_id": "2308.07282",
+    "title": "Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification",
+    "authors": "Olesya Razuvayevskaya, Ben Wu, Joao A. Leite, Freddy Heppell, Ivan Srba, Carolina Scarton, Kalina Bontcheva, Xingyi Song",
+    "published": "2023-08-14",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 137
+  },
+  "2308.07935": {
+    "paper_id": "2308.07935",
+    "title": "Transforming Sentiment Analysis in the Financial Domain with ChatGPT",
+    "authors": "Georgios Fatouros, John Soldatos, Kalliopi Kouroumali, Georgios Makridis, Dimosthenis Kyriazis",
+    "published": "2023-08-13",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 89
+  },
+  "2308.13642": {
+    "paper_id": "2308.13642",
+    "title": "The Potential of Quantum Techniques for Stock Price Prediction",
+    "authors": "Naman S, Gaurang B, Neel S, Aswath Babu H",
+    "published": "2023-08-25",
+    "category": "q-fin.CP",
+    "topic": "주가 예측",
+    "chunks": 36
+  },
+  "2308.15126": {
+    "paper_id": "2308.15126",
+    "title": "Evaluation and Analysis of Hallucination in Large Vision-Language Models",
+    "authors": "Junyang Wang, Yiyang Zhou, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, Jitao Sang, Haoyu Tang",
+    "published": "2023-08-29",
+    "category": "cs.LG",
+    "topic": "환각·사실성 평가",
+    "chunks": 51
+  },
+  "2309.00073": {
+    "paper_id": "2309.00073",
+    "title": "Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction",
+    "authors": "Kelvin J. L. Koa, Yunshan Ma, Ritchie Ng, Tat-Seng Chua",
+    "published": "2023-08-18",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 79
+  },
+  "2309.01431": {
+    "paper_id": "2309.01431",
+    "title": "Benchmarking Large Language Models in Retrieval-Augmented Generation",
+    "authors": "Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun",
+    "published": "2023-09-04",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 66
+  },
+  "2309.02301": {
+    "paper_id": "2309.02301",
+    "title": "CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning",
+    "authors": "Hongyu Hu, Jiyuan Zhang, Minyi Zhao, Zhenbang Sun",
+    "published": "2023-09-05",
+    "category": "cs.CV",
+    "topic": "환각·사실성 평가",
+    "chunks": 46
+  },
+  "2309.11693": {
+    "paper_id": "2309.11693",
+    "title": "Doubly Robust Mean-CVaR Portfolio",
+    "authors": "Kei Nakagawa, Masaya Abe, Seiichi Kuroki",
+    "published": "2023-09-20",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 45
+  },
+  "2310.00297": {
+    "paper_id": "2310.00297",
+    "title": "Understanding In-Context Learning from Repetitions",
+    "authors": "Jianhao Yan, Jin Xu, Chiyu Song, Chenming Wu, Yafu Li, Yue Zhang",
+    "published": "2023-09-30",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 90
+  },
+  "2310.00642": {
+    "paper_id": "2310.00642",
+    "title": "From Bandits Model to Deep Deterministic Policy Gradient, Reinforcement Learning with Contextual Information",
+    "authors": "Zhendong Shi, Xiaoli Wei, Ercan E. Kuruoglu",
+    "published": "2023-10-01",
+    "category": "cs.LG",
+    "topic": "강화학습 트레이딩",
+    "chunks": 81
+  },
+  "2310.04027": {
+    "paper_id": "2310.04027",
+    "title": "Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models",
+    "authors": "Boyu Zhang, Hongyang Yang, Tianyu Zhou, Ali Babar, Xiao-Yang Liu",
+    "published": "2023-10-06",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 48
+  },
+  "2310.04793": {
+    "paper_id": "2310.04793",
+    "title": "FinGPT: Instruction Tuning Benchmark for Open-Source Large Language Models in Financial Datasets",
+    "authors": "Neng Wang, Hongyang Yang, Christina Dan Wang",
+    "published": "2023-10-07",
+    "category": "cs.CL",
+    "topic": "금융 LLM·NLP",
+    "chunks": 55
+  },
+  "2310.05884": {
+    "paper_id": "2310.05884",
+    "title": "A Meta-Learning Perspective on Transformers for Causal Language Modeling",
+    "authors": "Xinbo Wu, Lav R. Varshney",
+    "published": "2023-10-09",
+    "category": "cs.LG",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 80
+  },
+  "2310.09736": {
+    "paper_id": "2310.09736",
+    "title": "Domain-Specific Language Model Post-Training for Indonesian Financial NLP",
+    "authors": "Ni Putu Intan Maharani, Yoga Yustiawan, Fauzy Caesar Rochim, Ayu Purwarianti",
+    "published": "2023-10-15",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 37
+  },
+  "2310.12620": {
+    "paper_id": "2310.12620",
+    "title": "Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications",
+    "authors": "Yue Guo, Chenxi Hu, Yi Yang",
+    "published": "2023-10-19",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 61
+  },
+  "2310.17513": {
+    "paper_id": "2310.17513",
+    "title": "The Expressive Power of Low-Rank Adaptation",
+    "authors": "Yuchen Zeng, Kangwook Lee",
+    "published": "2023-10-26",
+    "category": "cs.LG",
+    "topic": "효율적 파인튜닝",
+    "chunks": 181
+  },
+  "2310.18339": {
+    "paper_id": "2310.18339",
+    "title": "When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications",
+    "authors": "Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, Derong Xu, Feng Tian, Yefeng Zheng",
+    "published": "2023-10-21",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 80
+  },
+  "2311.00237": {
+    "paper_id": "2311.00237",
+    "title": "The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis",
+    "authors": "Yuxiang Zhou, Jiazheng Li, Yanzheng Xiang, Hanqi Yan, Lin Gui, Yulan He",
+    "published": "2023-11-01",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 77
+  },
+  "2311.06595": {
+    "paper_id": "2311.06595",
+    "title": "From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL",
+    "authors": "Xiaoqian Li, Ercong Nie, Sheng Liang",
+    "published": "2023-11-11",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 71
+  },
+  "2311.13102": {
+    "paper_id": "2311.13102",
+    "title": "Detecting out-of-distribution text using topological features of transformer-based language models",
+    "authors": "Andres Pollano, Anupam Chaudhuri, Anj Simmons",
+    "published": "2023-11-22",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 45
+  },
+  "2312.12788": {
+    "paper_id": "2312.12788",
+    "title": "Leveraging Sample Entropy for Enhanced Volatility Measurement and Prediction in International Oil Price Returns",
+    "authors": "Radhika Prosad Datta",
+    "published": "2023-12-20",
+    "category": "q-fin.CP",
+    "topic": "금융 리스크·변동성",
+    "chunks": 48
+  },
+  "2312.14203": {
+    "paper_id": "2312.14203",
+    "title": "Shai: A large language model for asset management",
+    "authors": "Zhongyang Guo, Guanran Jiang, Zhongdan Zhang, Peng Li, Zhefeng Wang, Yinchun Wang",
+    "published": "2023-12-21",
+    "category": "q-fin.PM",
+    "topic": "금융 LLM·NLP",
+    "chunks": 52
+  },
+  "2312.14504": {
+    "paper_id": "2312.14504",
+    "title": "Theory of Hallucinations based on Equivariance",
+    "authors": "Hisaichi Shibata",
+    "published": "2023-12-22",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 35
+  },
+  "2401.06249": {
+    "paper_id": "2401.06249",
+    "title": "SpotV2Net: Multivariate Intraday Spot Volatility Forecasting via Vol-of-Vol-Informed Graph Attention Networks",
+    "authors": "Alessio Brini, Giacomo Toscano",
+    "published": "2024-01-11",
+    "category": "q-fin.ST",
+    "topic": "금융 리스크·변동성",
+    "chunks": 126
+  },
+  "2402.10189": {
+    "paper_id": "2402.10189",
+    "title": "Uncertainty Quantification for In-Context Learning of Large Language Models",
+    "authors": "Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, Yiyou Sun, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen",
+    "published": "2024-02-15",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 73
+  },
+  "2402.11626": {
+    "paper_id": "2402.11626",
+    "title": "Metacognitive Retrieval-Augmented Large Language Models",
+    "authors": "Yujia Zhou, Zheng Liu, Jiajie Jin, Jian-Yun Nie, Zhicheng Dou",
+    "published": "2024-02-18",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 78
+  },
+  "2402.12976": {
+    "paper_id": "2402.12976",
+    "title": "The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis",
+    "authors": "Miaoran Zhang, Vagrant Gautam, Mingyang Wang, Jesujoba O. Alabi, Xiaoyu Shen, Dietrich Klakow, Marius Mosbach",
+    "published": "2024-02-20",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 114
+  },
+  "2403.01373": {
+    "paper_id": "2403.01373",
+    "title": "Quantity Matters: Towards Assessing and Mitigating Number Hallucination in Large Vision-Language Models",
+    "authors": "Huixuan Zhang, Junzhe Zhang, Xiaojun Wan",
+    "published": "2024-03-03",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 68
+  },
+  "2403.14197": {
+    "paper_id": "2403.14197",
+    "title": "Context Quality Matters in Training Fusion-in-Decoder for Extractive Open-Domain Question Answering",
+    "authors": "Kosuke Akimoto, Kunihiro Takeoka, Masafumi Oyamada",
+    "published": "2024-03-21",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 79
+  },
+  "2403.16187": {
+    "paper_id": "2403.16187",
+    "title": "ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models",
+    "authors": "Zequan Liu, Jiawen Lyn, Wei Zhu, Xing Tian, Yvette Graham",
+    "published": "2024-03-24",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 98
+  },
+  "2403.17306": {
+    "paper_id": "2403.17306",
+    "title": "Visual Hallucination: Definition, Quantification, and Prescriptive Remediations",
+    "authors": "Anku Rani, Vipula Rawte, Harshad Sharma, Neeraj Anand, Krishnav Rajbangshi, Amit Sheth, Amitava Das",
+    "published": "2024-03-26",
+    "category": "cs.AI",
+    "topic": "환각·사실성 평가",
+    "chunks": 65
+  },
+  "2404.02053": {
+    "paper_id": "2404.02053",
+    "title": "BERTopic-Driven Stock Market Predictions: Unraveling Sentiment Insights",
+    "authors": "Enmin Zhu, Jerome Yen",
+    "published": "2024-04-02",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 95
+  },
+  "2404.10934": {
+    "paper_id": "2404.10934",
+    "title": "Shears: Unstructured Sparsity with Neural Low-rank Adapter Search",
+    "authors": "J. Pablo Muñoz, Jinjie Yuan, Nilesh Jain",
+    "published": "2024-04-16",
+    "category": "cs.LG",
+    "topic": "효율적 파인튜닝",
+    "chunks": 51
+  },
+  "2405.00566": {
+    "paper_id": "2405.00566",
+    "title": "NumLLM: Numeric-Sensitive Large Language Model for Chinese Finance",
+    "authors": "Huan-Yi Su, Ke Wu, Yu-Hao Huang, Wu-Jun Li",
+    "published": "2024-05-01",
+    "category": "cs.CE",
+    "topic": "금융 LLM·NLP",
+    "chunks": 55
+  },
+  "2405.01586": {
+    "paper_id": "2405.01586",
+    "title": "Transfer Learning and Transformer Architecture for Financial Sentiment Analysis",
+    "authors": "Tohida Rehman, Raghubir Bose, Samiran Chattopadhyay, Debarshi Kumar Sanyal",
+    "published": "2024-04-28",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 28
+  },
+  "2405.04515": {
+    "paper_id": "2405.04515",
+    "title": "A Transformer with Stack Attention",
+    "authors": "Jiaoda Li, Jennifer C. White, Mrinmaya Sachan, Ryan Cotterell",
+    "published": "2024-05-07",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 73
+  },
+  "2405.05116": {
+    "paper_id": "2405.05116",
+    "title": "XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples",
+    "authors": "Peiqin Lin, André F. T. Martins, Hinrich Schütze",
+    "published": "2024-05-08",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 65
+  },
+  "2405.06808": {
+    "paper_id": "2405.06808",
+    "title": "Large Language Model in Financial Regulatory Interpretation",
+    "authors": "Zhiyu Cao, Zachary Feinstein",
+    "published": "2024-05-10",
+    "category": "q-fin.RM",
+    "topic": "금융 LLM·NLP",
+    "chunks": 45
+  },
+  "2405.10584": {
+    "paper_id": "2405.10584",
+    "title": "A Hybrid Deep Learning Framework for Stock Price Prediction Considering the Investor Sentiment of Online Forum Enhanced by Popularity",
+    "authors": "Huiyu Li, Junhua Hu",
+    "published": "2024-05-17",
+    "category": "cs.LG",
+    "topic": "주가 예측",
+    "chunks": 91
+  },
+  "2405.12988": {
+    "paper_id": "2405.12988",
+    "title": "Prediction of Cryptocurrency Prices through a Path Dependent Monte Carlo Simulation",
+    "authors": "Ayush Singh, Anshu K. Jha, Amit N. Kumar",
+    "published": "2024-04-10",
+    "category": "q-fin.ST",
+    "topic": "금융 리스크·변동성",
+    "chunks": 61
+  },
+  "2405.13002": {
+    "paper_id": "2405.13002",
+    "title": "DuetRAG: Collaborative Retrieval-Augmented Generation",
+    "authors": "Dian Jiao, Li Cai, Jingsheng Huang, Wenqiao Zhang, Siliang Tang, Yueting Zhuang",
+    "published": "2024-05-12",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 30
+  },
+  "2405.17357": {
+    "paper_id": "2405.17357",
+    "title": "DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution",
+    "authors": "Yulong Mao, Kaiyu Huang, Changhao Guan, Ganglin Bao, Fengran Mo, Jinan Xu",
+    "published": "2024-05-27",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 65
+  },
+  "2405.19893": {
+    "paper_id": "2405.19893",
+    "title": "Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts",
+    "authors": "Chunjing Gan, Dan Yang, Binbin Hu, Hanxiao Zhang, Siyuan Li, Ziqi Liu, Yue Shen, Lin Ju, Zhiqiang Zhang, Jinjie Gu, Lei Liang, Jun Zhou",
+    "published": "2024-05-30",
+    "category": "cs.LG",
+    "topic": "RAG·검색증강생성",
+    "chunks": 54
+  },
+  "2406.02562": {
+    "paper_id": "2406.02562",
+    "title": "Gated Low-rank Adaptation for personalized Code-Switching Automatic Speech Recognition on the low-spec devices",
+    "authors": "Gwantae Kim, Bokyeung Lee, Donghyeon Kim, Hanseok Ko",
+    "published": "2024-04-24",
+    "category": "eess.AS",
+    "topic": "효율적 파인튜닝",
+    "chunks": 34
+  },
+  "2406.03790": {
+    "paper_id": "2406.03790",
+    "title": "End-to-End Trainable Retrieval-Augmented Generation for Relation Extraction",
+    "authors": "Kohei Makino, Makoto Miwa, Yutaka Sasaki",
+    "published": "2024-06-06",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 89
+  },
+  "2406.07081": {
+    "paper_id": "2406.07081",
+    "title": "Efficiently Exploring Large Language Models for Document-Level Machine Translation with In-context Learning",
+    "authors": "Menglong Cui, Jiangcun Du, Shaolin Zhu, Deyi Xiong",
+    "published": "2024-06-11",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 69
+  },
+  "2406.10185": {
+    "paper_id": "2406.10185",
+    "title": "Detecting and Evaluating Medical Hallucinations in Large Vision Language Models",
+    "authors": "Jiawei Chen, Dingkang Yang, Tong Wu, Yue Jiang, Xiaolu Hou, Mingcheng Li, Shunli Wang, Dongling Xiao, Ke Li, Lihua Zhang",
+    "published": "2024-06-14",
+    "category": "cs.CV",
+    "topic": "환각·사실성 평가",
+    "chunks": 117
+  },
+  "2406.16167": {
+    "paper_id": "2406.16167",
+    "title": "FS-RAG: A Frame Semantics Based Approach for Improved Factual Accuracy in Large Language Models",
+    "authors": "Harish Tayyar Madabushi",
+    "published": "2024-06-23",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 55
+  },
+  "2407.01572": {
+    "paper_id": "2407.01572",
+    "title": "Exploring Sectoral Profitability in the Indian Stock Market Using Deep Learning",
+    "authors": "Jaydip Sen, Hetvi Waghela, Sneha Rakshit",
+    "published": "2024-05-28",
+    "category": "q-fin.CP",
+    "topic": "주가 예측",
+    "chunks": 111
+  },
+  "2407.08039": {
+    "paper_id": "2407.08039",
+    "title": "Knowledge Overshadowing Causes Amalgamated Hallucination in Large Language Models",
+    "authors": "Yuji Zhang, Sha Li, Jiateng Liu, Pengfei Yu, Yi R. Fung, Jing Li, Manling Li, Heng Ji",
+    "published": "2024-07-10",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 82
+  },
+  "2407.13213": {
+    "paper_id": "2407.13213",
+    "title": "Leveraging Machine Learning for High-Dimensional Option Pricing within the Uncertain Volatility Model",
+    "authors": "Ludovic Goudenege, Andrea Molent, Antonino Zanette",
+    "published": "2024-07-18",
+    "category": "q-fin.CP",
+    "topic": "금융 리스크·변동성",
+    "chunks": 130
+  },
+  "2407.15975": {
+    "paper_id": "2407.15975",
+    "title": "Multilingual Fine-Grained News Headline Hallucination Detection",
+    "authors": "Jiaming Shen, Tianqi Liu, Jialu Liu, Zhen Qin, Jay Pavagadhi, Simon Baumgartner, Michael Bendersky",
+    "published": "2024-07-22",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 75
+  },
+  "2407.16103": {
+    "paper_id": "2407.16103",
+    "title": "Reinforcement Learning Pair Trading: A Dynamic Scaling approach",
+    "authors": "Hongshen Yang, Avinash Malik",
+    "published": "2024-07-23",
+    "category": "q-fin.CP",
+    "topic": "강화학습 트레이딩",
+    "chunks": 71
+  },
+  "2407.17406": {
+    "paper_id": "2407.17406",
+    "title": "Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models",
+    "authors": "Yida Zhao, Chao Lou, Kewei Tu",
+    "published": "2024-07-24",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 68
+  },
+  "2407.17624": {
+    "paper_id": "2407.17624",
+    "title": "Forecasting Credit Ratings: A Case Study where Traditional Methods Outperform Generative LLMs",
+    "authors": "Felix Drinkall, Janet B. Pierrehumbert, Stefan Zohren",
+    "published": "2024-07-24",
+    "category": "q-fin.RM",
+    "topic": "금융 LLM·NLP",
+    "chunks": 87
+  },
+  "2408.08535": {
+    "paper_id": "2408.08535",
+    "title": "CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking",
+    "authors": "Rong-Ching Chang, Jiawei Zhang",
+    "published": "2024-08-16",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 59
+  },
+  "2408.08866": {
+    "paper_id": "2408.08866",
+    "title": "High-Frequency Options Trading | With Portfolio Optimization",
+    "authors": "Sid Bhatia",
+    "published": "2024-08-16",
+    "category": "q-fin.TR",
+    "topic": "포트폴리오 최적화",
+    "chunks": 20
+  },
+  "2408.15404": {
+    "paper_id": "2408.15404",
+    "title": "Evaluating Credit VIX (CDS IV) Prediction Methods with Incremental Batch Learning",
+    "authors": "Robert Taylor",
+    "published": "2024-08-27",
+    "category": "q-fin.CP",
+    "topic": "금융 리스크·변동성",
+    "chunks": 65
+  },
+  "2409.01864": {
+    "paper_id": "2409.01864",
+    "title": "The Role of Large Language Models in Musicology: Are We Ready to Trust the Machines?",
+    "authors": "Pedro Ramoneda, Emilia Parada-Cabaleiro, Benno Weck, Xavier Serra",
+    "published": "2024-09-03",
+    "category": "cs.SD",
+    "topic": "RAG·검색증강생성",
+    "chunks": 31
+  },
+  "2409.10301": {
+    "paper_id": "2409.10301",
+    "title": "Decomposition Pipeline for Large-Scale Portfolio Optimization with Applications to Near-Term Quantum Computing",
+    "authors": "Atithi Acharya, Romina Yalovetzky, Pierre Minssen, Shouvanik Chakrabarti, Ruslan Shaydulin, Rudy Raymond, Yue Sun, Dylan Herman, Ruben S. Andrist, Grant Salton, Martin J. A. Schuetz, Helmut G. Katzgra",
+    "published": "2024-09-16",
+    "category": "math.OC",
+    "topic": "포트폴리오 최적화",
+    "chunks": 98
+  },
+  "2410.01987": {
+    "paper_id": "2410.01987",
+    "title": "Financial Sentiment Analysis on News and Reports Using Large Language Models and FinBERT",
+    "authors": "Yanxin Shen, Pulin Kirin Zhang",
+    "published": "2024-10-02",
+    "category": "cs.IR",
+    "topic": "금융 감성분석",
+    "chunks": 39
+  },
+  "2410.11366": {
+    "paper_id": "2410.11366",
+    "title": "LargePiG: Your Large Language Model is Secretly a Pointer Generator",
+    "authors": "Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang, Jun Xu",
+    "published": "2024-10-15",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 104
+  },
+  "2410.15359": {
+    "paper_id": "2410.15359",
+    "title": "A Survey of Hallucination in Large Visual Language Models",
+    "authors": "Wei Lan, Wenyi Chen, Qingfeng Chen, Shirui Pan, Huiyu Zhou, Yi Pan",
+    "published": "2024-10-20",
+    "category": "cs.AI",
+    "topic": "환각·사실성 평가",
+    "chunks": 94
+  },
+  "2410.15778": {
+    "paper_id": "2410.15778",
+    "title": "Reducing Hallucinations in Vision-Language Models via Latent Space Steering",
+    "authors": "Sheng Liu, Haotian Ye, Lei Xing, James Zou",
+    "published": "2024-10-21",
+    "category": "cs.CV",
+    "topic": "환각·사실성 평가",
+    "chunks": 71
+  },
+  "2410.15821": {
+    "paper_id": "2410.15821",
+    "title": "The effect of fine-tuning on language model toxicity",
+    "authors": "Will Hawkins, Brent Mittelstadt, Chris Russell",
+    "published": "2024-10-21",
+    "category": "cs.AI",
+    "topic": "효율적 파인튜닝",
+    "chunks": 65
+  },
+  "2410.16858": {
+    "paper_id": "2410.16858",
+    "title": "Dynamic graph neural networks for enhanced volatility prediction in financial markets",
+    "authors": "Pulikandala Nithish Kumar, Nneka Umeorah, Alex Alochukwu",
+    "published": "2024-10-22",
+    "category": "q-fin.MF",
+    "topic": "금융 리스크·변동성",
+    "chunks": 101
+  },
+  "2411.00437": {
+    "paper_id": "2411.00437",
+    "title": "E2E-AFG: An End-to-End Model with Adaptive Filtering for Retrieval-Augmented Generation",
+    "authors": "Yun Jiang, Zilong Xie, Wei Zhang, Yun Fang, Shuai Pan",
+    "published": "2024-11-01",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 42
+  },
+  "2411.10069": {
+    "paper_id": "2411.10069",
+    "title": "Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity",
+    "authors": "Zichen Song, Sitan Huang, Yuxin Wu, Zhongfeng Kang",
+    "published": "2024-11-15",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 83
+  },
+  "2411.18997": {
+    "paper_id": "2411.18997",
+    "title": "GRU-PFG: Extract Inter-Stock Correlation from Stock Factors with Graph Neural Network",
+    "authors": "Yonggai Zhuang, Haoran Chen, Kequan Wang, Teng Fei",
+    "published": "2024-11-28",
+    "category": "q-fin.CP",
+    "topic": "주가 예측",
+    "chunks": 50
+  },
+  "2411.19581": {
+    "paper_id": "2411.19581",
+    "title": "In-Context Learning with Noisy Labels",
+    "authors": "Junyong Kang, Donghyun Son, Hwanjun Song, Buru Chang",
+    "published": "2024-11-29",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 39
+  },
+  "2412.06441": {
+    "paper_id": "2412.06441",
+    "title": "BoRA: Bi-dimensional Weight-Decomposed Low-Rank Adaptation",
+    "authors": "Qiushi Wang, Yuchen Fan, Junwei Bao, Hongfei Jiang, Yang Song",
+    "published": "2024-12-09",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 57
+  },
+  "2412.09859": {
+    "paper_id": "2412.09859",
+    "title": "Financial Sentiment Analysis: Leveraging Actual and Synthetic Data for Supervised Fine-tuning",
+    "authors": "Abraham Atsiwo",
+    "published": "2024-12-13",
+    "category": "cs.LG",
+    "topic": "금융 감성분석",
+    "chunks": 50
+  },
+  "2412.11019": {
+    "paper_id": "2412.11019",
+    "title": "PolyModel for Hedge Funds' Portfolio Construction Using Machine Learning",
+    "authors": "Siqiao Zhao, Dan Wang, Raphael Douady",
+    "published": "2024-12-15",
+    "category": "q-fin.ST",
+    "topic": "금융 리스크·변동성",
+    "chunks": 65
+  },
+  "2412.15404": {
+    "paper_id": "2412.15404",
+    "title": "A Retrieval-Augmented Generation Framework for Academic Literature Navigation in Data Science",
+    "authors": "Ahmet Yasin Aytar, Kemal Kilic, Kamer Kaya",
+    "published": "2024-12-19",
+    "category": "cs.IR",
+    "topic": "RAG·검색증강생성",
+    "chunks": 124
+  },
+  "2412.15606": {
+    "paper_id": "2412.15606",
+    "title": "Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage",
+    "authors": "Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaojian Ma, Tao Yuan, Yue Fan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li",
+    "published": "2024-12-20",
+    "category": "cs.AI",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 126
+  },
+  "2412.19140": {
+    "paper_id": "2412.19140",
+    "title": "SILC-EFSA: Self-aware In-context Learning Correction for Entity-level Financial Sentiment Analysis",
+    "authors": "Senbin Zhu, Chenyuan He, Hongde Liu, Pengcheng Dong, Hanjie Zhao, Yuchen Yan, Yuxiang Jia, Hongying Zan, Min Peng",
+    "published": "2024-12-26",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 64
+  },
+  "2501.11929": {
+    "paper_id": "2501.11929",
+    "title": "ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation",
+    "authors": "Peter Devine",
+    "published": "2025-01-21",
+    "category": "cs.LG",
+    "topic": "RAG·검색증강생성",
+    "chunks": 64
+  },
+  "2502.01113": {
+    "paper_id": "2502.01113",
+    "title": "GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation",
+    "authors": "Linhao Luo, Zicheng Zhao, Gholamreza Haffari, Dinh Phung, Chen Gong, Shirui Pan",
+    "published": "2025-02-03",
+    "category": "cs.IR",
+    "topic": "RAG·검색증강생성",
+    "chunks": 145
+  },
+  "2502.01574": {
+    "paper_id": "2502.01574",
+    "title": "An End-To-End LLM Enhanced Trading System",
+    "authors": "Ziyao Zhou, Ronitt Mehra",
+    "published": "2025-02-03",
+    "category": "q-fin.TR",
+    "topic": "금융 LLM·NLP",
+    "chunks": 32
+  },
+  "2502.03930": {
+    "paper_id": "2502.03930",
+    "title": "DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation",
+    "authors": "Dongya Jia, Zhuo Chen, Jiawei Chen, Chenpeng Du, Jian Wu, Jian Cong, Xiaobin Zhuang, Chumin Li, Zhen Wei, Yuping Wang, Yuxuan Wang",
+    "published": "2025-02-06",
+    "category": "eess.AS",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 75
+  },
+  "2502.08144": {
+    "paper_id": "2502.08144",
+    "title": "Trend-encoded Probabilistic Multi-order Model: A Non-Machine Learning Approach for Enhanced Stock Market Forecasts",
+    "authors": "Peiwan Wang, Chenhao Cui, Yong Li",
+    "published": "2025-02-12",
+    "category": "q-fin.CP",
+    "topic": "주가 예측",
+    "chunks": 87
+  },
+  "2502.12280": {
+    "paper_id": "2502.12280",
+    "title": "Connecting Large Language Model Agent to High Performance Computing Resource",
+    "authors": "Heng Ma, Alexander Brace, Carlo Siebenschuh, Greg Pauloski, Ian Foster, Arvind Ramanathan",
+    "published": "2025-02-17",
+    "category": "cs.DC",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 49
+  },
+  "2502.13490": {
+    "paper_id": "2502.13490",
+    "title": "What are Models Thinking about? Understanding Large Language Model Hallucinations \"Psychology\" through Model Inner State Analysis",
+    "authors": "Peiran Wang, Yang Liu, Yunfei Lu, Jue Hong, Ye Wu",
+    "published": "2025-02-19",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 84
+  },
+  "2502.21206": {
+    "paper_id": "2502.21206",
+    "title": "Chronologically Consistent Large Language Models",
+    "authors": "Songrun He, Linying Lv, Asaf Manela, Jimmy Wu",
+    "published": "2025-02-28",
+    "category": "q-fin.GN",
+    "topic": "금융 LLM·NLP",
+    "chunks": 113
+  },
+  "2503.03612": {
+    "paper_id": "2503.03612",
+    "title": "Large language models in finance : what is financial sentiment?",
+    "authors": "Kemal Kirtac, Guido Germano",
+    "published": "2025-03-05",
+    "category": "q-fin.ST",
+    "topic": "금융 감성분석",
+    "chunks": 56
+  },
+  "2503.04413": {
+    "paper_id": "2503.04413",
+    "title": "Can Large Language Models Predict Antimicrobial Resistance Gene?",
+    "authors": "Hyunwoo Yoo",
+    "published": "2025-03-06",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 30
+  },
+  "2503.12576": {
+    "paper_id": "2503.12576",
+    "title": "RaSA: Rank-Sharing Low-Rank Adaptation",
+    "authors": "Zhiwei He, Zhaopeng Tu, Xing Wang, Xingyu Chen, Zhijie Wang, Jiahao Xu, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang",
+    "published": "2025-03-16",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 60
+  },
+  "2504.14429": {
+    "paper_id": "2504.14429",
+    "title": "ResNetVLLM-2: Addressing ResNetVLLM's Multi-Modal Hallucinations",
+    "authors": "Ahmad Khalil, Mahmoud Khalil, Alioune Ngom",
+    "published": "2025-04-20",
+    "category": "cs.CV",
+    "topic": "환각·사실성 평가",
+    "chunks": 41
+  },
+  "2504.14765": {
+    "paper_id": "2504.14765",
+    "title": "The Memorization Problem: Can We Trust LLMs' Economic Forecasts?",
+    "authors": "Alejandro Lopez-Lira, Yuehua Tang, Mingyin Zhu",
+    "published": "2025-04-20",
+    "category": "q-fin.GN",
+    "topic": "금융 LLM·NLP",
+    "chunks": 264
+  },
+  "2505.06817": {
+    "paper_id": "2505.06817",
+    "title": "Control Plane as a Tool: A Scalable Design Pattern for Agentic AI Systems",
+    "authors": "Sivasathivel Kandasamy",
+    "published": "2025-05-11",
+    "category": "cs.AI",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 25
+  },
+  "2505.17345": {
+    "paper_id": "2505.17345",
+    "title": "The Case for Repeatable, Open, and Expert-Grounded Hallucination Benchmarks in Large Language Models",
+    "authors": "Justin D. Norman, Michael U. Rivera, D. Alex Hughes",
+    "published": "2025-05-22",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 67
+  },
+  "2505.24649": {
+    "paper_id": "2505.24649",
+    "title": "BIMA: Bijective Maximum Likelihood Learning Approach to Hallucination Prediction and Mitigation in Large Vision-Language Models",
+    "authors": "Huu-Thien Tran, Thanh-Dat Truong, Khoa Luu",
+    "published": "2025-05-30",
+    "category": "cs.CV",
+    "topic": "환각·사실성 평가",
+    "chunks": 58
+  },
+  "2506.00630": {
+    "paper_id": "2506.00630",
+    "title": "Probabilistic Forecasting for Building Energy Systems using Time-Series Foundation Models",
+    "authors": "Young Jin Park, Francois Germain, Jing Liu, Ye Wang, Toshiaki Koike-Akino, Gordon Wichern, Navid Azizan, Christopher R. Laughman, Ankush Chakrabarty",
+    "published": "2025-05-31",
+    "category": "cs.LG",
+    "topic": "효율적 파인튜닝",
+    "chunks": 107
+  },
+  "2506.03153": {
+    "paper_id": "2506.03153",
+    "title": "Why Regression? Binary Encoding Classification Brings Confidence to Stock Market Index Price Prediction",
+    "authors": "Junzhe Jiang, Chang Yang, Xinrun Wang, Bo Li",
+    "published": "2025-05-18",
+    "category": "q-fin.ST",
+    "topic": "주가 예측",
+    "chunks": 74
+  },
+  "2506.07928": {
+    "paper_id": "2506.07928",
+    "title": "Predicting Realized Variance Out of Sample: Can Anything Beat The Benchmark?",
+    "authors": "Austin Pollok",
+    "published": "2025-06-09",
+    "category": "q-fin.ST",
+    "topic": "금융 리스크·변동성",
+    "chunks": 171
+  },
+  "2507.01972": {
+    "paper_id": "2507.01972",
+    "title": "Accelerated Portfolio Optimization and Option Pricing with Reinforcement Learning",
+    "authors": "Hadi Keramati, Samaneh Jazayeri",
+    "published": "2025-06-23",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 32
+  },
+  "2507.04026": {
+    "paper_id": "2507.04026",
+    "title": "Patient-Centered RAG for Oncology Visit Aid Following the Ottawa Decision Guide",
+    "authors": "Siyang Liu, Lawrence Chin-I An, Rada Mihalcea",
+    "published": "2025-07-05",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 31
+  },
+  "2507.08015": {
+    "paper_id": "2507.08015",
+    "title": "Assessing the Capabilities and Limitations of FinGPT Model in Financial NLP Applications",
+    "authors": "Prudence Djagba, Chimezie A. Odinakachukwu",
+    "published": "2025-07-06",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 67
+  },
+  "2508.00554": {
+    "paper_id": "2508.00554",
+    "title": "ContestTrade: A Multi-Agent Trading System Based on Internal Contest Mechanism",
+    "authors": "Li Zhao, Rui Sun, Zuoyou Jiang, Bo Yang, Yuxiao Bai, Mengting Chen, Jing Li, Zuo Bai",
+    "published": "2025-08-01",
+    "category": "q-fin.TR",
+    "topic": "금융 LLM·NLP",
+    "chunks": 47
+  },
+  "2508.02759": {
+    "paper_id": "2508.02759",
+    "title": "Hedging with memory: shallow and deep learning with signatures",
+    "authors": "Eduardo Abi Jaber, Louis-Amand Gérard",
+    "published": "2025-08-03",
+    "category": "stat.ML",
+    "topic": "금융 리스크·변동성",
+    "chunks": 105
+  },
+  "2509.10467": {
+    "paper_id": "2509.10467",
+    "title": "DSRAG: A Domain-Specific Retrieval Framework Based on Document-derived Multimodal Knowledge Graph",
+    "authors": "Mengzheng Yang, Yanfei Ren, David Osei Opoku, Ruochang Li, Peng Ren, Chunxiao Xing",
+    "published": "2025-08-22",
+    "category": "cs.IR",
+    "topic": "RAG·검색증강생성",
+    "chunks": 35
+  },
+  "2509.16244": {
+    "paper_id": "2509.16244",
+    "title": "How Can Quantum Deep Learning Improve Large Language Models?",
+    "authors": "Emily Jimin Roh, Hyojun Ahn, Samuel Yen-Chi Chen, Soohyun Park, Joongheon Kim",
+    "published": "2025-09-17",
+    "category": "quant-ph",
+    "topic": "효율적 파인튜닝",
+    "chunks": 28
+  },
+  "2509.21870": {
+    "paper_id": "2509.21870",
+    "title": "Enhancing Low-Rank Adaptation with Structured Nonlinear Transformations",
+    "authors": "Guanzhi Deng, Mingyang Liu, Dapeng Wu, Yinqiao Li, Linqi Song",
+    "published": "2025-09-26",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 61
+  },
+  "2509.21999": {
+    "paper_id": "2509.21999",
+    "title": "Black-Box Hallucination Detection via Consistency Under the Uncertain Expression",
+    "authors": "Seongho Joo, Kyungmin Min, Jahyun Koo, Kyomin Jung",
+    "published": "2025-09-26",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 55
+  },
+  "2510.02995": {
+    "paper_id": "2510.02995",
+    "title": "AudioToolAgent: An Agentic Framework for Audio-Language Models",
+    "authors": "Gijs Wijngaard, Elia Formisano, Michel Dumontier, Jenia Jitsev",
+    "published": "2025-10-03",
+    "category": "cs.SD",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 45
+  },
+  "2510.04295": {
+    "paper_id": "2510.04295",
+    "title": "Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads",
+    "authors": "Nghiem T. Diep, Dung Le, Tuan Truong, Tan Dinh, Huy Nguyen, Nhat Ho",
+    "published": "2025-10-05",
+    "category": "cs.LG",
+    "topic": "효율적 파인튜닝",
+    "chunks": 128
+  },
+  "2510.04851": {
+    "paper_id": "2510.04851",
+    "title": "LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation",
+    "authors": "Dongge Han, Camille Couturier, Daniel Madrigal Diaz, Xuchao Zhang, Victor Rühle, Saravan Rajmohan",
+    "published": "2025-10-06",
+    "category": "cs.AI",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 71
+  },
+  "2510.06664": {
+    "paper_id": "2510.06664",
+    "title": "ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory",
+    "authors": "Yunzhong Xiao, Yangmin Li, Hewei Wang, Yunlong Tang, Zora Zhiruo Wang",
+    "published": "2025-10-08",
+    "category": "cs.CL",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 84
+  },
+  "2510.10526": {
+    "paper_id": "2510.10526",
+    "title": "Integrating Large Language Models and Reinforcement Learning for Sentiment-Driven Quantitative Trading",
+    "authors": "Wo Long, Wenxin Zeng, Xiaoyu Zhang, Ziyao Zhou",
+    "published": "2025-10-12",
+    "category": "q-fin.CP",
+    "topic": "강화학습 트레이딩",
+    "chunks": 57
+  },
+  "2510.15929": {
+    "paper_id": "2510.15929",
+    "title": "Comparing LLMs for Sentiment Analysis in Financial Market News",
+    "authors": "Lucas Eduardo Pereira Teles, Carlos M. S. Figueiredo",
+    "published": "2025-10-03",
+    "category": "q-fin.ST",
+    "topic": "금융 LLM·NLP",
+    "chunks": 38
+  },
+  "2510.27118": {
+    "paper_id": "2510.27118",
+    "title": "Probability Distributions Computed by Autoregressive Transformers",
+    "authors": "Andy Yang, Anej Svete, Jiaoda Li, Anthony Widjaja Lin, Jonathan Rawski, Ryan Cotterell, David Chiang",
+    "published": "2025-10-31",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 79
+  },
+  "2511.12120": {
+    "paper_id": "2511.12120",
+    "title": "Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy",
+    "authors": "Hongyang Yang, Xiao-Yang Liu, Shan Zhong, Anwar Walid",
+    "published": "2025-11-15",
+    "category": "q-fin.TR",
+    "topic": "강화학습 트레이딩",
+    "chunks": 52
+  },
+  "2511.13481": {
+    "paper_id": "2511.13481",
+    "title": "Aspect-Level Obfuscated Sentiment in Thai Financial Disclosures and Its Impact on Abnormal Returns",
+    "authors": "Attapol T. Rutherford, Sirisak Chueykamhang, Thachaparn Bunditlurdruk, Nanthicha Angsuwichitkul",
+    "published": "2025-11-17",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 61
+  },
+  "2512.00878": {
+    "paper_id": "2512.00878",
+    "title": "Less is More: Resource-Efficient Low-Rank Adaptation",
+    "authors": "Chunlin Tian, Xuyang Wei, Huanrong Liu, Zhijiang Guo, Li Li",
+    "published": "2025-11-30",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 75
+  },
+  "2512.07132": {
+    "paper_id": "2512.07132",
+    "title": "DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning",
+    "authors": "Nithin Sivakumaran, Justin Chih-Yao Chen, David Wan, Yue Zhang, Jaehong Yoon, Elias Stengel-Eskin, Mohit Bansal",
+    "published": "2025-12-08",
+    "category": "cs.CL",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 101
+  },
+  "2512.15233": {
+    "paper_id": "2512.15233",
+    "title": "Null-LoRA: Low-Rank Adaptation on Null Space",
+    "authors": "Yi Zhang, Yulei Kang, Haoxuan Chen, Jinxuan Li, Jian-Fang Hu",
+    "published": "2025-12-17",
+    "category": "cs.CV",
+    "topic": "효율적 파인튜닝",
+    "chunks": 28
+  },
+  "2512.16301": {
+    "paper_id": "2512.16301",
+    "title": "Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills",
+    "authors": "Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, Zifeng Wang, Luxi He, Yichen Wu, Ming Zhong, Peiyang Song, Qizheng Zhang, Heng Wang, Xueqiang Xu, Hanwen Xu, Pengrui Han, Dylan Zhang, Jiashuo Sun, Chaoqi Yan",
+    "published": "2025-12-18",
+    "category": "cs.AI",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 471
+  },
+  "2512.17194": {
+    "paper_id": "2512.17194",
+    "title": "MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation",
+    "authors": "Shengwei Zhao, Jingwen Yao, Sitong Wei, Linhai Xu, Yuying Liu, Dong Zhang, Zhiqiang Tian, Shaoyi Du",
+    "published": "2025-12-19",
+    "category": "cs.AI",
+    "topic": "RAG·검색증강생성",
+    "chunks": 53
+  },
+  "2601.11327": {
+    "paper_id": "2601.11327",
+    "title": "Can Small Agents Collaborate to Beat a Single Large Language Model?",
+    "authors": "Agata Żywot, Xinyi Chen, Yifei Yuan, Anders Søgaard, Maarten de Rijke",
+    "published": "2026-01-16",
+    "category": "cs.MA",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 70
+  },
+  "2601.15724": {
+    "paper_id": "2601.15724",
+    "title": "VideoThinker: Building Agentic VideoLLMs with LLM-Guided Tool Reasoning",
+    "authors": "Chenglin Li, Qianglong Chen, Feng Han, Yikun Wang, Xingxi Yin, Yan Gong, Ruilin Li, Yin Zhang, Jiaqi Wang",
+    "published": "2026-01-22",
+    "category": "cs.CV",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 93
+  },
+  "2601.17021": {
+    "paper_id": "2601.17021",
+    "title": "Regret-Driven Portfolios: LLM-Guided Smart Clustering for Optimal Allocation",
+    "authors": "Muhammad Abro, Hassan Jaleel",
+    "published": "2026-01-16",
+    "category": "q-fin.PM",
+    "topic": "금융 LLM·NLP",
+    "chunks": 56
+  },
+  "2602.07253": {
+    "paper_id": "2602.07253",
+    "title": "From Out-of-Distribution Detection to Hallucination Detection: A Geometric View",
+    "authors": "Litian Liu, Reza Pourreza, Yubing Jian, Yao Qin, Roland Memisevic",
+    "published": "2026-02-06",
+    "category": "cs.AI",
+    "topic": "환각·사실성 평가",
+    "chunks": 84
+  },
+  "2602.18912": {
+    "paper_id": "2602.18912",
+    "title": "Overreaction as an indicator for momentum in algorithmic trading: A Case of AAPL stocks",
+    "authors": "Szymon Lis, Robert Ślepaczuk, Paweł Sakowski",
+    "published": "2026-02-21",
+    "category": "q-fin.TR",
+    "topic": "금융 리스크·변동성",
+    "chunks": 99
+  },
+  "2602.23197": {
+    "paper_id": "2602.23197",
+    "title": "Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models",
+    "authors": "Chungpa Lee, Jy-yong Sohn, Kangwook Lee",
+    "published": "2026-02-26",
+    "category": "cs.CL",
+    "topic": "인컨텍스트 학습·프롬프팅",
+    "chunks": 131
+  },
+  "2603.04647": {
+    "paper_id": "2603.04647",
+    "title": "Coordinated Semantic Alignment and Evidence Constraints for Retrieval-Augmented Generation with Large Language Models",
+    "authors": "Xin Chen, Saili Uday Gadgil, Jiarong Qiu",
+    "published": "2026-03-04",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 37
+  },
+  "2603.09290": {
+    "paper_id": "2603.09290",
+    "title": "ToolRosella: Translating Code Repositories into Standardized Tools for Scientific Agents",
+    "authors": "Shimin Di, Xujie Yuan, Hanghui Guo, Chaoqian Ouyang, Yongxu Liu, Ling Yue, Zhangze Chen, Libin Zheng, Jia Zhu, Shaowu Pan, Jian Yin, Yong Rui, Min-Ling Zhang",
+    "published": "2026-03-10",
+    "category": "cs.SE",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 82
+  },
+  "2603.23300": {
+    "paper_id": "2603.23300",
+    "title": "Designing Agentic AI-Based Screening for Portfolio Investment",
+    "authors": "Mehmet Caner, Agostino Capponi, Nathan Sun, Jonathan Y. Tan",
+    "published": "2026-03-24",
+    "category": "q-fin.PM",
+    "topic": "금융 LLM·NLP",
+    "chunks": 251
+  },
+  "2604.02921": {
+    "paper_id": "2604.02921",
+    "title": "Debiasing LLMs by Fine-tuning",
+    "authors": "Zhenyu Gao, Wenxi Jiang, Yutong Yan",
+    "published": "2026-04-03",
+    "category": "q-fin.GN",
+    "topic": "금융 LLM·NLP",
+    "chunks": 94
+  },
+  "2604.05432": {
+    "paper_id": "2604.05432",
+    "title": "Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use",
+    "authors": "Wuyang Zhang, Shichao Pei",
+    "published": "2026-04-07",
+    "category": "cs.CR",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 124
+  },
+  "2604.13368": {
+    "paper_id": "2604.13368",
+    "title": "TLoRA+: A Low-Rank Parameter-Efficient Fine-Tuning Method for Large Language Models",
+    "authors": "Yarui Cao, Kai Liu",
+    "published": "2026-04-15",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 52
+  },
+  "2604.15945": {
+    "paper_id": "2604.15945",
+    "title": "RAGognizer: Hallucination-Aware Fine-Tuning via Detection Head Integration",
+    "authors": "Fabian Ridder, Laurin Lessel, Malte Schilling",
+    "published": "2026-04-17",
+    "category": "cs.CL",
+    "topic": "환각·사실성 평가",
+    "chunks": 62
+  },
+  "2604.18373": {
+    "paper_id": "2604.18373",
+    "title": "Dissecting AI Trading: Behavioral Finance and Market Bubbles",
+    "authors": "Shumiao Ouyang, Pengfei Sui",
+    "published": "2026-04-20",
+    "category": "econ.GN",
+    "topic": "금융 LLM·NLP",
+    "chunks": 128
+  },
+  "2604.18509": {
+    "paper_id": "2604.18509",
+    "title": "MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation",
+    "authors": "Xingchen Xiao, Heyan Huang, Runheng Liu, Jincheng Xie",
+    "published": "2026-04-20",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 79
+  },
+  "2604.19476": {
+    "paper_id": "2604.19476",
+    "title": "Cross-Stock Predictability via LLM-Augmented Semantic Networks",
+    "authors": "Yikuan Huang, Zheqi Fan, Kaiqi Hu, Yifan Ye",
+    "published": "2026-04-21",
+    "category": "q-fin.PM",
+    "topic": "금융 LLM·NLP",
+    "chunks": 50
+  },
+  "2605.13119": {
+    "paper_id": "2605.13119",
+    "title": "Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models",
+    "authors": "Zixing Lei, Changxing Liu, Yichen Xiong, Minhao Xiong, Yuanzhuo Ding, Zhipeng Zhang, Weixin Li, Siheng Chen",
+    "published": "2026-05-13",
+    "category": "cs.RO",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 80
+  },
+  "2605.15562": {
+    "paper_id": "2605.15562",
+    "title": "GiLT: Augmenting Transformer Language Models with Dependency Graphs",
+    "authors": "Tianyu Huang, Yida Zhao, Chuyan Zhou, Kewei Tu",
+    "published": "2026-05-15",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 60
+  },
+  "2605.19714": {
+    "paper_id": "2605.19714",
+    "title": "LLM-Based Financial Sentiment Analysis in Arabic: Evidence from Saudi Markets",
+    "authors": "Mona H. Albaqawi, Eman M. Albalkhi, Joud A. Albaiti, Enrico Lopedoto",
+    "published": "2026-05-19",
+    "category": "cs.CL",
+    "topic": "금융 감성분석",
+    "chunks": 55
+  },
+  "2605.28840": {
+    "paper_id": "2605.28840",
+    "title": "How Consistent Are LLM Agents? Measuring Behavioral Reproducibility in Multi-Step Tool-Calling Pipelines",
+    "authors": "Abel Yagubyan",
+    "published": "2026-04-23",
+    "category": "cs.CL",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 48
+  },
+  "2606.04325": {
+    "paper_id": "2606.04325",
+    "title": "Parameter-Efficient Fine-Tuning with Learnable Rank",
+    "authors": "Arpit Garg, Simon Lucey, Hemanth Saratchandran",
+    "published": "2026-06-03",
+    "category": "cs.CL",
+    "topic": "효율적 파인튜닝",
+    "chunks": 140
+  },
+  "2606.09478": {
+    "paper_id": "2606.09478",
+    "title": "Volatility Forecasting and Return Prediction under Market Regimes: Evidence from High-Frequency Chinese Equity Data",
+    "authors": "Xinyue Fang, Robert Ślepaczuk",
+    "published": "2026-06-08",
+    "category": "q-fin.TR",
+    "topic": "금융 리스크·변동성",
+    "chunks": 163
+  },
+  "2607.00856": {
+    "paper_id": "2607.00856",
+    "title": "Shapley in Context: Explaining Financial Language with Domain Expertise",
+    "authors": "Dangxing Chen, Pengzhan Guo",
+    "published": "2026-07-01",
+    "category": "q-fin.CP",
+    "topic": "금융 LLM·NLP",
+    "chunks": 189
+  },
+  "2607.01852": {
+    "paper_id": "2607.01852",
+    "title": "Evaluating Chunking Strategies for Retrieval-Augmented Generation on Academic Texts",
+    "authors": "Valentin J. J. Kreileder, Johannes Reisinger, Andreas Fischer",
+    "published": "2026-07-02",
+    "category": "cs.IR",
+    "topic": "RAG·검색증강생성",
+    "chunks": 21
+  },
+  "2607.11126": {
+    "paper_id": "2607.11126",
+    "title": "ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory",
+    "authors": "Yue Fang, Zhibang Yang, Fangkai Yang, Xiaoting Qin, Liqun Li, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang",
+    "published": "2026-07-13",
+    "category": "cs.LG",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 106
+  },
+  "2607.19391": {
+    "paper_id": "2607.19391",
+    "title": "LAARA: Layer-Aware Adaptive Rank Allocation for Parameter-Efficient Fine-Tuning",
+    "authors": "Ashutosh Tripathi, Surya Deep Singh, Pranab Sahoo, Sriparna Saha",
+    "published": "2026-07-02",
+    "category": "cs.LG",
+    "topic": "효율적 파인튜닝",
+    "chunks": 83
+  },
+  "2607.24767": {
+    "paper_id": "2607.24767",
+    "title": "The Effect of Text Chunk Size on Retrieval-Augmented Generation Performance",
+    "authors": "German Garrido-Lestache Belinchon, Hugo Garrido-Lestache Belinchon",
+    "published": "2026-06-08",
+    "category": "cs.IR",
+    "topic": "RAG·검색증강생성",
+    "chunks": 23
+  },
+  "2607.25816": {
+    "paper_id": "2607.25816",
+    "title": "Speculate While You Reason: Teaching Agents to Predict Their Next Tool Call via Joint Agent-Speculator RL",
+    "authors": "Jiabao Ji, Yujian Liu, Li An, Rohit Jain, Gungor Polatkan, Siyu Zhu, Shiyu Chang",
+    "published": "2026-07-28",
+    "category": "cs.AI",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 66
+  },
+  "2607.29601": {
+    "paper_id": "2607.29601",
+    "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
+    "authors": "Jiajia Tang, Sizhe Yuen, Francisco Gomez Medina, Yali Du, Adam Sobey",
+    "published": "2026-07-31",
+    "category": "cs.LG",
+    "topic": "효율적 파인튜닝",
+    "chunks": 56
+  },
+  "2608.02645": {
+    "paper_id": "2608.02645",
+    "title": "Verified Tool Calls Improve LLM Agent Reliability Under Non-Atomic Failures",
+    "authors": "Isham Kalappurackal Mansoor, Abhishek Phadke, Pratip Rana",
+    "published": "2026-07-31",
+    "category": "cs.SE",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 52
+  },
+  "2608.15770": {
+    "paper_id": "2608.15770",
+    "title": "Learning Stock Trading Policies via Barycenter-Based Adversarial Inverse Reinforcement Learning",
+    "authors": "Arishi Orra, Himanshu Choudhary, Manoj Thakur",
+    "published": "2026-08-16",
+    "category": "cs.LG",
+    "topic": "강화학습 트레이딩",
+    "chunks": 87
+  },
+  "2608.23628": {
+    "paper_id": "2608.23628",
+    "title": "Callability Is Not Operability: Controlled Interface Interventions for LLM Agents",
+    "authors": "Zihao Wang",
+    "published": "2026-08-23",
+    "category": "cs.SE",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 80
+  },
+  "2608.24271": {
+    "paper_id": "2608.24271",
+    "title": "Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering",
+    "authors": "Zahra Seyedghorban, Egor Klimov, Arie van Deursen, Annibale Panichella, Burcu Kulahcioglu Ozkan",
+    "published": "2026-08-25",
+    "category": "cs.SE",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 36
+  },
+  "2608.26563": {
+    "paper_id": "2608.26563",
+    "title": "SPT: Skills as Pre-Training Data for Agentic Language Models",
+    "authors": "Yufei Sun, Yudong Li, Yiming Cheng",
+    "published": "2026-08-27",
+    "category": "cs.CL",
+    "topic": "LLM 에이전트·도구사용",
+    "chunks": 94
+  },
+  "1706.03762": {
+    "paper_id": "1706.03762",
+    "title": "Attention Is All You Need",
+    "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",
+    "published": "2017-06-12",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 49
+  },
+  "1810.04805": {
+    "paper_id": "1810.04805",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova",
+    "published": "2018-10-11",
+    "category": "cs.CL",
+    "topic": "트랜스포머·언어모델",
+    "chunks": 83
+  },
+  "2002.06975": {
+    "paper_id": "2002.06975",
+    "title": "Cross-sectional Stock Price Prediction using Deep Learning for Actual Investment Management",
+    "authors": "Masaya Abe, Kei Nakagawa",
+    "published": "2020-02-17",
+    "category": "q-fin.PM",
+    "topic": "주가 예측",
+    "chunks": 42
+  },
+  "2005.11401": {
+    "paper_id": "2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": "Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela",
+    "published": "2020-05-22",
+    "category": "cs.CL",
+    "topic": "RAG·검색증강생성",
+    "chunks": 88
+  },
+  "2502.00828": {
+    "paper_id": "2502.00828",
+    "title": "Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization",
+    "authors": "Yoontae Hwang, Yaxuan Kong, Stefan Zohren, Yongjae Lee",
+    "published": "2025-02-02",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 132
+  },
+  "2601.07942": {
+    "paper_id": "2601.07942",
+    "title": "Enhancing Portfolio Optimization with Deep Learning Insights",
+    "authors": "Brandon Luo, Jim Skufca",
+    "published": "2026-01-12",
+    "category": "q-fin.PM",
+    "topic": "포트폴리오 최적화",
+    "chunks": 47
+  }
+}

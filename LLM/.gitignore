@@ -50,3 +50,6 @@ output.mp3
 *.jsonl
 *.mp3
 db/
+
+# 논문 에이전트 매니페스트는 앱 동작에 필요하므로 *.json 규칙에서 제외
+!my_agent/papers.json
