@@ -1,0 +1,60 @@
+# Created by https://www.toptal.com/developers/gitignore/api/python,venv
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,venv
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written b...
+/nlp_venv
+data/
+*.model
+*.vocab
+*.txt
+*.bin.gz
+*.tsv
+*.xml
+*.npy
+*.csv
+*.keras
+gnews_model_wv
+/llm_venv
+output.mp3
+*.json
+*.jsonl
+*.mp3
+db/
+*.mp4
+# 논문 에이전트 매니페스트는 앱 동작에 필요하므로 *.json 규칙에서 제외
+!my_agent/papers.json
+*.pt
+runs/
+results/
+*_venv
+*.jpg
