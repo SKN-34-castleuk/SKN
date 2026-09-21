@@ -271,7 +271,7 @@ pip-selfcheck.json
 ML/.gitignore
 runs/
 results/
-model/
+model/*.joblib
 
 /config.local
 /tmp
