@@ -6,7 +6,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.pyc
 
 # C extensions
 *.so
@@ -132,8 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-basic_venv/
-\*_venv
+sw_venv/
 
 # Spyder project settings
 .spyderproject
@@ -187,92 +185,35 @@ pyrightconfig.json
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
-
-# End of https://www.toptal.com/developers/gitignore/api/python,venv
-\day_list
-# Created by https://www.toptal.com/developers/gitignore/api/images
-# Edit at https://www.toptal.com/developers/gitignore?templates=images
-
-### Images ###
-# JPEG
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
-
-# JPEG 2000
-*.jp2
-*.j2k
-*.jpf
-*.jpx
-*.jpm
-*.mj2
-
-# JPEG XR
-*.jxr
-*.hdp
-*.wdp
-
-# Graphics Interchange Format
-*.gif
-
-# RAW
-*.raw
-
-# Web P
-*.webp
-
-# Portable Network Graphics
+data/
+*.db
 *.png
-
-# Animated Portable Network Graphics
-*.apng
-
-# Multiple-image Network Graphics
-*.mng
-
-# Tagged Image File Format
-*.tiff
-*.tif
-
-# Scalable Vector Graphics
-*.svg
-*.svgz
-
-# Portable Document Format
+/cachedir
+/models
+*.model
+*.vocab
+*.gz
+*.xml
+*.npy
+gnews_model_wv
+*.keras
+*.csv
+*.mp3
+*.json
+*.jsonl
 *.pdf
-
-# X BitMap
-*.xbm
-
-# BMP
-*.bmp
-*.dib
-
-# ICO
-*.ico
-
-# 3D Images
-*.3dm
-*.max
-
-# End of https://www.toptal.com/developers/gitignore/api/images
-\data_venv
-*.sql
-\basic_venv
-\images
-\movie_images
-\album_images
-\crawling_venv
-\coding_Study
-
-ML/.gitignore
+db/
+chroma_db/
+*.mp4
+*.pt
 runs/
 results/
+*.jpg
 model/*.joblib
 
 /config.local
 /tmp
 /cache
+
+
+# End of https://www.toptal.com/developers/gitignore/api/python,venv
