@@ -219,3 +219,4 @@ model/*.joblib
 # End of https://www.toptal.com/developers/gitignore/api/python,venv
 
 assets/
+node_modules/
