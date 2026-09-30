@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Modify DOM</h1>
+
+    
+    <button type="button" onclick="test1();">innerHTML</button>
+    <button type="button" onclick="test2();">innerText(textContent)</button>
+    <button type="button" onclick="test3();">outerHTML</button>
+    
+    <div class="wrapper">
+        <p id="foo">안녕하세요, 저는 <mark>홍길동</mark>입니다.</p>
+        <p id="bar"></p>
+    </div>
+
+    <h2>insertAdjacentHTML</h2>
+    <button type="button" onclick="test4();">beforebegin</button>
+    <button type="button" onclick="test5();">afterbegin</button>
+    <button type="button" onclick="test6();">beforeend</button>
+    <button type="button" onclick="test7();">afterend</button>
+
+    <h3 id="target">🍩🍩🍩</h3>
+
+    <h2>Element 추가</h2>
+    <button type="button" onclick="test8()">h3</button>
+    <button type="button" onclick="test9()">img</button>
+    
+    <div id="area"></div>
+
+    <h2>Element 삭제</h2>
+    <button type="button" onclick="test10()">remove</button>
+    <button type="button" onclick="test11()">removeChild</button>
+    <button type="button" onclick="test12()">innerHTML</button>
+
+    <ul id="messages">
+        <li>안녕</li>
+        <li>반가워</li>
+        <li id="good-morning">좋은 아침입니다.</li>
+        <li>잘자</li>
+        <li>밥 먹었니?</li>
+    </ul>
+
+    <h2>Element 이동</h2>
+    <button type="button" onclick="test13()">이동</button>
+    <ul id="another-messages"></ul>
+    
+    
+    
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <script src="js/05_modify_dom.js"></script>
+</body>
+</html>

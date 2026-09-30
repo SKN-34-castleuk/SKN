@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <script defer src="js/03_traverse_dom.js"></script>
+    </head>
+<body>
+    <h1>DOM 탐색하기</h1>
+    <button type="button" onclick="test1();">확인</button>
+    <div id="sample">
+        안녕
+        <!-- 주석 -->
+        <span>Helloworld</span>
+    </div>
+
+    <button type="button" onclick="test2();">자식</button>
+    <button type="button" onclick="test3();">부모</button>
+    <button type="button" onclick="test4();">형제</button>
+    
+    <!-- div.wrapper>p#p${Helloworld$}*5 -->
+    <div class="wrapper">
+        <p id="p1">Helloworld1</p>
+        <p id="p2">Helloworld2</p>
+        <p id="p3">Helloworld3</p>
+        <p id="p4">Helloworld4</p>
+        <p id="p5">Helloworld5</p>
+    </div>
+    
+</body>
+</html>

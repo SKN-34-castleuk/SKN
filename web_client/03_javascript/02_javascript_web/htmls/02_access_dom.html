@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>DOM 접근하기</h1>
+    <!-- 
+        Document of Model (DOM Tree)
+        - html태그들을 계층구조와 모든 태그정보와 함께 javascript객체로 변환된 모델
+        - document객체를 통해 접근
+    -->
+
+    <!-- button:button[onclick] -->
+    <button type="button" onclick="test1();">getElementById</button>
+    <button type="button" onclick="test2();">getElementsByTagName</button>
+    <button type="button" onclick="test3();">getElementsByClassName</button>
+    <button type="button" onclick="test4();">querySelector</button>
+    <button type="button" onclick="test5();">querySelectorAll</button>
+
+    <!-- ul>li#li$.group1{HelloJS$}*5 -->
+    <ul>
+        <li id="li1" class="group1">HelloJS1</li>
+        <li id="li2" class="group2">HelloJS2</li>
+        <li id="li3" class="group1">HelloJS3</li>
+        <li id="li4" class="group2">HelloJS4</li>
+        <li id="li5" class="group1 group2">HelloJS5</li>
+    </ul>     
+    
+    <form action="">
+        <fieldset>
+            <legend>취미 선택</legend>
+            <!-- div>label+input:checkbox -->
+            <div>
+                <label for="all">모두선택</label>
+                <input type="checkbox" id="all" onchange="test7();">
+            </div>
+            <div>
+                <label for="hobby-basketball">농구</label><input type="checkbox" name="hobby" id="hobby-basketball" value="농구">
+                &nbsp;&nbsp;
+                <label for="hobby-soccer">축구</label><input type="checkbox" name="hobby" id="hobby-soccer" value="축구">
+                &nbsp;&nbsp;
+                <label for="hobby-baseball">야구</label><input type="checkbox" name="hobby" id="hobby-baseball" value="야구">
+            </div>
+            <div>
+                <button type="button" onclick="test6();">선택 확인</button>
+            </div>
+        </fieldset>
+    </form>
+
+    <fieldset>
+        <legend>@실습문제 : input태그 사용자입력값 출력하기</legend>
+        <label for="name">이름</label>
+        <input type="text" name="name" id="name" class="user-input" value="홍길동" >
+        <button type="button" onclick="test8();">확인</button>
+    </fieldset>
+
+    <fieldset>
+        <legend>@실습문제 : 점수입력</legend>
+        <!-- onchange / oninput-->
+        <input 
+            type="range" name="score" id="score" class="user-input" 
+            min="0" max="100" oninput="test9();">
+        <span id="display-score">33</span>점
+    </fieldset>
+    
+    <script src="js/02_access_dom.js"></script>
+</body>
+</html>

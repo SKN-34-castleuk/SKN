@@ -1,0 +1,1 @@
+const test = () => {console.log('테스트 함수!')};
