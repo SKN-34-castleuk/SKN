@@ -1,0 +1,42 @@
+{# 한줄 주석 #}
+
+{% comment %}
+여러줄 주석
+여러줄 주석
+{% endcomment %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Django Template | 01_Variables_Filters</title>
+</head>
+<body>
+    <h1>01_Variables_Filters</h1>
+    <a href="{% url 'app:index' %}">인덱스 페이지</a>
+
+    <h2>Variables</h2>
+    <p>제 이름은 {{ name }}입니다. 저는 {{ age }}살 입니다.</p>
+
+    <h2>Filters</h2>
+    <!-- 주어진 변수에 대한 후처리를 담당한다. -->
+    <p>제 이름은 {{ name | upper }} 입니다. 저는 {{ age | add:1 }}살 입니다. </p>
+
+    <p>오늘은 {{ today }} 입니다.</p>
+    <p>오늘은 {{ today | date:"Y/m/d (D) H:i:s" }} 입니다.</p>
+    <p>오늘은 {{ today | date:"Y/m/d (D) A H:i:s.u" }} 입니다.</p>
+    
+    <p>현재는 {% now "Y/m/d (D) H:i:s.u" %}입니다.</p>
+
+    <h2>Variable Declaration</h2>
+    {% now 'Y' as this_year %}
+    <p>올해는 {{ this_year }}년 입니다.</p>
+
+    {% with username='honggd' useremail='honggd@naver.com' %}
+    <p>사용자 이름: {{ username }}, 사용자 이메일: {{ useremail }}</p>
+    {% endwith %}
+
+    <p>사용자 이름: {{ username }}, 사용자 이메일: {{ useremail }}</p>
+</body>
+</html>
