@@ -1,0 +1,99 @@
+{% extends '../layout/base.html' %}
+{% load static %}
+
+{% block style %}
+<style></style>
+{% endblock style %}
+
+{% block content %}
+<h1 class="m-3">QnA</h1>
+
+<div class="container my-1">
+    <table class="table">
+        <thead>
+            <tr class="table-dark">
+                <th>번호</th>
+                <th>제목</th>
+                <th>작성자</th>
+                <th>작성일시</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for question in page_obj %}
+            <tr>
+              <td>{{ question.id }}</td>
+              <td>
+                <a href="{% url 'qna:question_detail' question_id=question.id %}">{{ question.subject }}</a>
+                <!-- 여기쯤.... 답변 개수 출력. 0일때는 안보여줘도 됨👍-->
+                {% if question.answer_set.count > 0 %}
+                  <span class="badge text-bg-info">{{ question.answer_set.count }}</span>
+                {% endif %}
+              </td>
+              <td>{{ question.author | default:'' }}</td>
+              <td>{{ question.created_at }}</td>
+            </tr>
+            {% empty %}
+            <tr>
+              <td colspan="4">작성된 질문이 없습니다.</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination justify-content-center">
+      <!-- 이전페이지 영역 시작 -->
+      {% if page_obj.has_previous %}
+          <li class="page-item">
+              <a class="page-link" href="{% url 'qna:index' %}?page={{ page_obj.previous_page_number }}">Previous</a>
+          </li>
+      {% else %}
+          <li class="page-item disabled">
+              <a class="page-link">Previous</a>
+          </li>
+      {% endif %}
+      <!-- 이전페이지 영역 끝 -->
+  
+      <!-- 페이지넘버 영역 시작 -->
+      {% for page_number in page_obj.paginator.page_range %}
+          {# 현재페이지 기준 앞뒤 3개까지만 표시 (4 ~ 7 링크 표시) #}
+          {% if page_number >= page_obj.number|add:-3 and page_number <= page_obj.number|add:3 %}
+              {% if page_number == page_obj.number %}
+                  {# 현재페이지인 경우 #}
+                  <li class="page-item active"><a class="page-link" href="#">{{ page_number }}</a></li>
+              {% else %}
+                  {# 현재페이지가 아닌 경우 #}
+                  <li class="page-item">
+                      <a class="page-link" href="{% url 'qna:index' %}?page={{ page_number }}">{{ page_number }}</a>
+                  </li>        
+              {% endif %} 
+          {% endif %}
+          
+      {% endfor %}
+      <!-- 페이지넘버 영역 끝 -->
+
+      <!-- 다음페이지 영역 시작 -->
+      {% if page_obj.has_next %}
+          <li class="page-item">
+              <a class="page-link" href="{% url 'qna:index' %}?page={{ page_obj.next_page_number }}">Next</a>
+          </li>
+      {% else %}
+          <li class="page-item disabled">
+              <a class="page-link" href="#">Next</a>
+          </li>
+      {% endif %}
+      <!-- 다음페이지 영역 끝 -->
+  </ul>
+</nav>
+<!-- 페이징 처리 끝 -->
+
+<a href="{% url 'qna:question_create' %}" class="btn btn-primary">질문 등록하기</a>
+
+{% endblock content %}
+
+{% block script %}
+<script>
+  console.log('페이지내 스크립트 실행중...');
+</script>
+{% endblock script %}
